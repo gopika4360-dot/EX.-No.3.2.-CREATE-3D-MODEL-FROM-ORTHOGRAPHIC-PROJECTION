@@ -42,7 +42,7 @@ To create a 3D model from given orthographic projection.
 ![image](https://user-images.githubusercontent.com/113594316/198823540-38a1b79a-1f68-4876-add9-adf59b98b386.png)
 
 ## OUTPUT:
-![GOPIKA EXP3 2_page-0001 (1)](https://github.com/user-attachments/assets/acb96620-e684-43a5-a5ad-181cdc71636a)
+![exp3 2 Drawing GOP_page-0001](https://github.com/user-attachments/assets/d9c4257d-776a-4ac0-add2-4e7ceaaa1cfb)
 
 ## RESULT:
 Thus, 3D model is created from orthographic projection.
